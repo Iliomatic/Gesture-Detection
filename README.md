@@ -1,2 +1,3 @@
 # Gesture-Detection
 Hand Gesture Detection
+I chose to detect three natural hand gestures namely, “COME”, “NO” and “VICTORY”. The selected gestures are easy to classify and help convey information to anyone and everyone due to their common usage. The main idea was to pick gestures which could be detected if processed through a single algorithm yet showcase different hand configurations involving movement, orientation and location instead of mere static hand movements. The objective was met to a large extent although the transition from one detection to other was slow due to real time perception. 
